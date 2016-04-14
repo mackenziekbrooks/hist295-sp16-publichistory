@@ -27,8 +27,6 @@ List of sources due Friday 5/6 in class.
 
 **Part 2: Activity and Documentation**
 
-Submit a 1-2 page summary of your engagement with the platform. Include URLs when applicable. How is this public history? Who holds the authority? 
-
 Activities by topic:
 * Edit Wikipedia. The extent and type of your edit is up to you.
 * Select an ephemeral topic and gather URLs that you wish to preserve. 
@@ -41,9 +39,11 @@ In 1-2 pages, address the following questions.
 * Beyond your research for the annotated bibliography, how did you go about learning more about your topic? Particularly, how do you learn to *use* your piece of technology? Were there tutorials or documentation that you found useful?
 * What type of cultural heritage institution could this tool/methodology benefit? Why did you select that type of institution? What are some potential challenges? 
 * How does your tool/methodology engage with the public? What types of audiences could it reach? 
-* 
+* Does your tool/methodology control, disperse, or share authority? (Foster)
+
 
 **Part 3: Presentation**
-In a 20 minute presentation, summarize your topic and its issues for the class. Lead the class in a brief exercise so that your classmates can experience the platform themselves. 
+ 
+ Give a 20 minute presentation to the class on your topic. Your presentation should be more than just a summary of your research. Take what you've learned so far about engaging the public and put it to use in your presentation. Lead the class in an activity that allows them to experience your tool/methodology first-hand. You could assign the class a role as a particular audience, for instance, a pitch to other museum professionals or a workshop for elementary school teachers. 
 
 # Assignment #3: Curatescape Project 
