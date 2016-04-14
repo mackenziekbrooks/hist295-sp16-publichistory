@@ -34,16 +34,17 @@ Activities by topic:
 * Choose a crowdsourcing project and contribute to it.
 
 Activity Documentation:
-In 1-2 pages, address the following questions. 
+In 1-2 pages, address the following questions:
 * Provide evidence of your activity. This could be via URL, screenshot, or descriptive narrative. 
 * Beyond your research for the annotated bibliography, how did you go about learning more about your topic? Particularly, how do you learn to *use* your piece of technology? Were there tutorials or documentation that you found useful?
-* What type of cultural heritage institution could this tool/methodology benefit? Why did you select that type of institution? What are some potential challenges? 
-* How does your tool/methodology engage with the public? What types of audiences could it reach? 
-* Does your tool/methodology control, disperse, or share authority? (Foster)
+* What type of cultural heritage institution could this tool/methodology benefit?  Why did you select that type of institution? What are some potential challenges? 
+* How does your tool/methodology engage with the public? Does it promote access and use of the collections or is there another goal? What types of audiences could it reach? 
+* Does your tool/methodology control, disperse, or share authority? (Foster) What progress does it make toward documenting an increasingly electronic culture?
 
+Consult with your professors on Friday 5/6 if you have questions about this assignment.
 
 **Part 3: Presentation**
  
- Give a 20 minute presentation to the class on your topic. Your presentation should be more than just a summary of your research. Take what you've learned so far about engaging the public and put it to use in your presentation. Lead the class in an activity that allows them to experience your tool/methodology first-hand. You could assign the class a role as a particular audience, for instance, a pitch to other museum professionals or a workshop for elementary school teachers. 
+Give a 20 minute presentation to the class on your topic. Your presentation should be more than just a summary of your research. Take what you've learned so far about engaging the public and put it to use in your presentation. Lead the class in an activity that allows them to experience your tool/methodology first-hand. You could assign the class a role as a particular audience, for instance, a pitch to other museum professionals or a workshop for elementary school teachers. 
 
 # Assignment #3: Curatescape Project 
