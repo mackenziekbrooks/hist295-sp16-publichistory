@@ -36,7 +36,7 @@ Complete schedule forthcoming
 # Week 2 
 ## Readings for Monday: 
 * [New Media and the Challenges of Public History]()
-
+* [Getting to the Stuff: Digital Cultural Heritage Collections, Absence, and Memory](http://www.lotfortynine.org/2012/11/getting-to-the-stuff-digital-cultural-heritage-collections-absence-and-memory/)
 
 ## Monday 5/2
 **Assignment #1: Williamsburg paper due by 9am**
@@ -44,7 +44,7 @@ Complete schedule forthcoming
 * Digital tools and methodologies
 * Introduction to Assignment #2
 
-## Readings for Monday: 
+## Readings for Wednesday: 
 * [Online and Plugged in?: Public Hisotry and Historians in the Digital Age]()
 
 ## Wednesday 5/4
