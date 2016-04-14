@@ -34,21 +34,36 @@ Complete schedule forthcoming
 
 ***
 # Week 2 
+## Readings for Monday: 
+* [New Media and the Challenges of Public History]()
+
+
 ## Monday 5/2
 **Assignment #1: Williamsburg paper due by 9am**
-* Colonial Williamsburg Discussion and Decompression 
-* Introduction to New Media and working with to Digital Tools
+* Colonial Williamsburg discussion and decompression 
+* Digital tools and methodologies
+* Introduction to Assignment #2
+
+## Readings for Monday: 
+* [Online and Plugged in?: Public Hisotry and Historians in the Digital Age]()
 
 ## Wednesday 5/4
-Trip to Scholars' Lab at University of Virginia 
+* Public History on W&L's campus
+* Visit to Reeves Center with Ron Fuchs
+* Visit to Lee Chapel with Lucy Wilkins
 
 ## Friday 5/6
-IQ Center Visit
-
-?New Media Project Tutorial?
+* Museums in the Digital Age discussion
+* Makerspaces in Libraries
+* IQ Center visit with Dave Pfaff
 
 ****
+
 # Week 3
+## Reading for Monday
+* [Curatescape Whitepaper](http://mobilehistorical.curatescape.org/)
+* 
+
 ## Monday 5/9
 **Assignment #2 Due**
 
@@ -57,8 +72,8 @@ IQ Center Visit
 * Visit to W&L Library Special Collections
 
 ## Wednesday 5/11
-* Introduction to Curatescape
-* Research Planning Sessions 
+* Introduction to Curatescape platform
+* Research planning sessions 
 
 ## Friday 5/13
 * Research in Special Collections
