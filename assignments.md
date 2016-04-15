@@ -1,3 +1,11 @@
+# Grading breakdown
+Assignment | Percentage
+---|---
+Assignment #1 | 30% 
+Assignment #2 | 30%
+Assignment #3 | 40%
+
+
 # Assignment #1: Colonial Williamsburg Analysis
 
 
@@ -48,3 +56,29 @@ Consult with your professors on Friday 5/6 if you have questions about this assi
 Give a 20 minute presentation to the class on your topic. Your presentation should be more than just a summary of your research. Take what you've learned so far about engaging the public and put it to use in your presentation. Lead the class in an activity that allows them to experience your tool/methodology first-hand. You could assign the class a role as a particular audience, for instance, a pitch to other museum professionals or a workshop for elementary school teachers. 
 
 # Assignment #3: Curatescape Project 
+
+
+
+Using the Curatescape platform and Special Collections resources, create a walking tour of Lexington. This will be a collaborative project, though each student will be responsible for contributing their own site "stories." 
+
+Technically, Curatescape is a walking tour theme for the popular digital collections and exhibit platform [Omeka](http://www.omeka.org). It is also an interpretive framework, one that privileges the "stories" that can be told by layering text and multimedia. 
+
+After reviewing the material available to you, it will be up to your group to determine the type of narrative you want to tell. Curatescape provides for individual site "stories" as well as thematic "tours" made up of multiple stories. 
+
+Requirements:
+* Each student must research and write 4-5 stories. 
+* Stories can and should contain a mix of archival and contemporary media. 
+* Stories should be thoroughly researched and proper attribution/citation given. 
+
+
+
+
+
+
+
+
+
+
+
+
+
