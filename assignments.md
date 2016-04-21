@@ -1,12 +1,46 @@
 # Grading breakdown
 Assignment | Percentage
----|---
-Assignment #1 | 30% 
+--- | ---
+Assignment #1 | 20% 
 Assignment #2 | 30%
 Assignment #3 | 40%
-
+Attendance/Participation | 10%
 
 # Assignment #1: Colonial Williamsburg Analysis
+Colonial Williamsburg provides many opportunities to engage with public history through multiple layers of active and passive interpretation. For this assignment, you will need to compare and critically analyze the physical and digital public history environment of Colonial Williamsburg through readings, research, and personal encounters.
+
+## Part 1
+Find a potential angle for analyzing CW and explore this theme on CW’s expansive website. For this assignment, you will want to assess how the website is engaging with your particular theme through outreach interpretation, such as: digital exhibits, creative display (such as 3D modeling), online resources, podcasts, and much more. You may wish to consider one of the following to examine:
+
+* The African American Experience in Colonial America
+* The Nostalgic “South”
+* Women in Colonial History
+* Tourism
+* Colonial Markets
+* Historic Games and Play
+* Living Interpretation
+* Social History (everyday peoples’ history) vs. Big History (“great men” and big events)
+
+Other angles will be considered, but must be approved by professors before beginning research.
+
+## Part 2 
+
+Download free walking tour app in preparation for your trip to CW.
+
+## Part 3 
+While in CW, you will engage in an Activities Scavenger Hunt, which should include all of the following:
+* Visit the CW museum
+* Engage with at least one costumed interpreter related to your angle
+* Take a tour (Free tours are available throughout the day as noted in your brochure. Ticketed tours are also available, the cost of which will be covered by W&L)
+* Meet Professors Brooks and Stillo at period tavern for dinner on Thursday evening
+
+## Part 4 
+When you return from CW, find one outside source (journal article or book) that deals with your particular theme in the CW setting. It would behoove you to begin this search as early as possible. We recommend you start with the *Search Everything* search box on the library website. 
+
+## Part 5
+Write a 6-8 page paper that analyzes your theme in the physical and digital environment of CW. Consider questions such as: Does CW engage with your theme differently on the web vs. in person interpretation? Was your angle privileged in once place, but missing in others? Does your outside source lend any additional insight into the coverage of your particle angle? 
+
+**Paper is due in class on Monday, 5/2.**
 
 
 # Assignment #2: Tech trends in Cultural Heritage Institutions 
@@ -57,8 +91,6 @@ Give a 20 minute presentation to the class on your topic. Your presentation shou
 
 # Assignment #3: Curatescape Project 
 
-
-
 Using the Curatescape platform and Special Collections resources, create a walking tour of Lexington. This will be a collaborative project, though each student will be responsible for contributing their own site "stories." 
 
 Technically, Curatescape is a walking tour theme for the popular digital collections and exhibit platform [Omeka](http://www.omeka.org). It is also an interpretive framework, one that privileges the "stories" that can be told by layering text and multimedia. 
@@ -69,16 +101,5 @@ Requirements:
 * Each student must research and write 4-5 stories. 
 * Stories can and should contain a mix of archival and contemporary media. 
 * Stories should be thoroughly researched and proper attribution/citation given. 
-
-
-
-
-
-
-
-
-
-
-
 
 
