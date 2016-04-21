@@ -52,7 +52,7 @@ Complete schedule forthcoming
 * Research workshop
 
 ## Readings for Wednesday: 
-* [Online and Plugged in?: Public Hisotry and Historians in the Digital Age]()
+* [Online and Plugged in?: Public History and Historians in the Digital Age](https://epress.lib.uts.edu.au/journals/index.php/phrj/article/view/4295)
 * [Getting to the Stuff: Digital Cultural Heritage Collections, Absence, and Memory](http://www.lotfortynine.org/2012/11/getting-to-the-stuff-digital-cultural-heritage-collections-absence-and-memory/)
 * [It’s All About the Stuff: Collections, Interfaces, Power, and People](http://journalofdigitalhumanities.org/1-1/its-all-about-the-stuff-by-tim-sherratt/)
 * [Washington and Lee University to remove Confederate flags following protests ](https://www.washingtonpost.com/local/education/washington-and-lee-university-to-remove-confederate-flags-following-protests/2014/07/08/e219e580-06bb-11e4-8a6a-19355c7e870a_story.html)
