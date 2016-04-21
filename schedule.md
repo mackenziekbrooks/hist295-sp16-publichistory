@@ -66,7 +66,7 @@ Complete schedule forthcoming
 
 ## Reading for Friday
 
-* [Museums in the Digital Age, 1-30]()
+* Museums in the Digital Age, 1-30
 * [Museums Morph Digitally: The Met and Other Museums Adapt to the Digital Age ](http://www.nytimes.com/2014/10/26/arts/artsspecial/the-met-and-other-museums-adapt-to-the-digital-age.html?_r=0)
 * [The Makings of Maker Spaces, Part 1: Space for Creation, Not Just Consumption](http://www.thedigitalshift.com/2012/10/public-services/the-makings-of-maker-spaces-part-1-space-for-creation-not-just-consumption/)
 * [Makers in the library: case studies of 3D printers and maker spaces in library settings](http://ezproxy.wlu.edu/login?url=http://search.proquest.com/docview/1633970834)
